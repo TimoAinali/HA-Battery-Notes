@@ -348,6 +348,11 @@
                 "battery_type": "CR2450"
             },
             {
+                "manufacturer": "Ruuvi",
+                "model": "Ruuvitag",
+                "battery_type": "CR2477T"
+            },
+            {
                 "manufacturer": "rtl_433",
                 "model": "Acurite-Tower",
                 "battery_type": "AA",
